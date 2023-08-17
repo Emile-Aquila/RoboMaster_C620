@@ -1,0 +1,20 @@
+CMakeFiles/C620_Test.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/croutine.c \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.0/include/stddef.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.0/include/stdint.h \
+ /usr/arm-none-eabi/include/stdint.h \
+ /usr/arm-none-eabi/include/machine/_default_types.h \
+ /usr/arm-none-eabi/include/sys/features.h \
+ /usr/arm-none-eabi/include/_newlib_version.h \
+ /usr/arm-none-eabi/include/sys/_intsup.h \
+ /usr/arm-none-eabi/include/sys/_stdint.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Core/Inc/FreeRTOSConfig.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/portmacro.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ /home/emile/Documents/Code/C620_Test/C620_Test/Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
